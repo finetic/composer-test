@@ -1,0 +1,15 @@
+{
+    "name": "finetic/composer-test",
+    "autoload": {
+        "psr-4": {
+            "Finetic\\ComposerTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Remon Vos",
+            "email": "remon@finetic.nl"
+        }
+    ],
+    "require": {}
+}
